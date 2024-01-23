@@ -1,7 +1,7 @@
 # OBJECT ORIENTED PROGRAMMING (JAVA)
 
 ## Introduction
-The project **Hospital Management System** is developed by me. All of the logic and code is written by me (**Sufyan Siddiqui**) I also got some help from the internet as well. 
+The project **Hospital Management System**'s code and logic developed by me and also I got some help from the internet. I used my knowledge to customize it and apply all pillars of OOP to it.
 
 ##  Project Description
 The **Hospital Management System** project is based on a Command Line Interface(CLI) and applies all four pillars of **OOP**. <br><br>
@@ -18,7 +18,7 @@ Date: Jan/23/2024                                            Time: 08:52 pm
 
                                     MAIN MENU
 -----------------------------------------------------------------------------------
-  1. Doctors  2. Patients  3.Appointment 4. Exit.
+  1. Doctors  2. Patients  3. Appointment 4. Exit.
 -----------------------------------------------------------------------------------
   Enter the number according to Menu: 1
   
